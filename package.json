@@ -2,7 +2,7 @@
   "name": "find-and-replace-with-prev",
   "main": "./lib/find",
   "description": "Find and replace within buffers and across the project. Forked to add prev button.",
-  "version": "0.208.2",
+  "version": "0.209.0",
   "license": "MIT",
   "activationCommands": {
     "atom-workspace": [
