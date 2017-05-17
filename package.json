@@ -25,7 +25,7 @@
       "find-and-replace:clear-history"
     ]
   },
-  "repository": "https://github.com/jonathan-dejong/find-and-replace",
+  "repository": "https://github.com/jonathan-dejong/find-and-replace-with-prev",
   "engines": {
     "atom": "*"
   },
